@@ -1,1 +1,1 @@
-# FizzBuzzProblem
+This is a simple C# solution to the FIzz Buzz problem that uses a for loop to count to 100 and outputs 'Fizz' if the number is a multiple of 3, 'Buzz' if its a multiple of 5 and 'Fizz Buzz' if a multiple of 3 and 5. It outputs to the console window
